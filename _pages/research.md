@@ -3,12 +3,24 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
 
+# Research Interests
+## Methodologies
+- Integer Programming
+- Constraint Programming
+- Parallel Computing
+- Hybrid Decomposition Algorithms
+## Application Areas
+- Large-scale Production Planning and Scheduling
+- Decision Making Under Uncertainty
+- Graph Problems
+- Medical Applications of Operations Research
+- Telecommunications Network Optimization
+
+# Journal Publications
 1. van den Heuvel, W., Ağralı, S. & Taşkın, Z.C. (2023), <i>"A Decomposition Algorithm for Single and Multi-Objective Integrated Market Selection and Production Planning,"</i> INFORMS Journal on Computing.  Vol. 35(6), pp. 1439-1453. [[DOI]](https://doi.org/10.1287/ijoc.2022.0053) [[PDF]](pdf/market_selection.pdf)
 1. Banak, A.E., Ekim, T. & Taşkın, Z.C. (2023), <i>"Constructing extremal triangle-free graphs using integer programming,"</i> Discrete Optimization.  Vol. 50, pp. 100802. <a href="https://doi.org/10.1016/j.disopt.2023.100802">[DOI]</a> <a href="pdf/triangle_free.pdf">[PDF]</a>
 
