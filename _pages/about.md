@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Professor of Operations Research
-[Department of Industrial Engineering](https://ie.bogazici.edu.tr)
-[Boğaziçi University](https://www.bogazici.edu.tr)
+Professor of Operations Research <br>
+[Department of Industrial Engineering](https://ie.bogazici.edu.tr) <br>
+[Boğaziçi University](https://www.bogazici.edu.tr) <br>
 
-E-mail: caner.taskin at bogazici.edu.tr
-Phone: +90 (212) 359 7074
-Fax: +90 (212) 265 1800
-Office:
-Boğaziçi Üniversitesi Endüstri Müh. Bölümü
-Mühendislik Fakültesi Binası (Güney Kampüs) M4017
+<br>
+E-mail: caner.taskin at bogazici.edu.tr <br>
+Phone: +90 (212) 359 7074 <br>
+Fax: +90 (212) 265 1800 <br>
+Office: <br>
+Boğaziçi Üniversitesi Endüstri Müh. Bölümü <br> 
+Mühendislik Fakültesi Binası (Güney Kampüs) M4017 <br>
 34342, Bebek, İstanbul
