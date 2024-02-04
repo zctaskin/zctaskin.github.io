@@ -7,13 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-# Research Interests
-## Methodologies
+# Methodologies
 - Integer Programming
 - Constraint Programming
 - Parallel Computing
 - Hybrid Decomposition Algorithms
-## Application Areas
+
+# Application Areas
 - Large-scale Production Planning and Scheduling
 - Decision Making Under Uncertainty
 - Graph Problems
