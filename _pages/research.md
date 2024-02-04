@@ -16,7 +16,7 @@ author_profile: true
 # Application Areas
 - Large-scale Production Planning and Scheduling
 - Decision Making Under Uncertainty
-- Graph Problems
+- Optimization Problems in Graph Theory
 - Medical Applications of Operations Research
 - Telecommunications Network Optimization
 
