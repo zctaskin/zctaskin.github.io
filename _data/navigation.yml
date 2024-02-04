@@ -1,11 +1,10 @@
 # main links links
 main:
+  - title: "CV"
+    url: /files/Taskin_CV.pdf
+    
   - title: "Research"
     url: /research/
 
   - title: "Teaching"
     url: /teaching/    
-        
-  - title: "CV"
-    url: /files/Taskin_CV.pdf
-    
