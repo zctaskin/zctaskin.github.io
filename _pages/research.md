@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
 <ol reversed>
 <li id="VanDenHeuvelEtAl2023" class="entry">
 van den Heuvel, W., Ağralı, S. & Taşkın, Z.C. (2023), <i>"A Decomposition Algorithm for Single and Multi-Objective Integrated Market Selection and Production Planning,"</i> INFORMS Journal on Computing.  Vol. 35(6), pp. 1439-1453. <a href="https://doi.org/10.1287/ijoc.2022.0053">[DOI]</a> <a href="pdf/market_selection.pdf">[PDF]</a>
