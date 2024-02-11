@@ -9,14 +9,14 @@ author_profile: true
 
 ## Research Interests
 - Methodologies
-  -- Integer Programming
-  -- Hybrid Decomposition Algorithms
-  -- Parallel Computing
+  - Integer Programming
+  - Hybrid Decomposition Algorithms
+  - Parallel Computing
 - Application Areas
-  -- Large-scale Production Planning and Scheduling
-  -- Decision Making Under Uncertainty
-  -- Medical Applications of Operations Research
-  -- Telecommunications Network Optimization
+  - Large-scale Production Planning and Scheduling
+  - Decision Making Under Uncertainty
+  - Medical Applications of Operations Research
+  - Telecommunications Network Optimization
 
  ## Journal Publications 
 
