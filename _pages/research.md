@@ -107,3 +107,21 @@ author_profile: true
 1. Taşkın, Z.C. (2010), <i>"Benders Decomposition,"</i> In J. J. Cochran (Editor),  Encyclopedia of Operations Research and Management Science. Wiley. <a href="http://doi.org/10.1002/9780470400531.eorms0104">[DOI]</a> <a href="/files/taskin_benders.pdf">[PDF]</a>
 
 1. Smith, J.C. & Taşkın, Z.C. (2008), <i>"A Tutorial Guide to Mixed-Integer Programming Models and Solution Techniques,"</i> In G. J. Lim and E. K. Lee (Editor),  Optimization in Medicine and Biology. January 2008. Taylor and Francis, Auerbach Publications. <a href="/files/IP_tutorial.pdf">[PDF]</a>
+
+## Conference Proceedings
+
+1. Onar, O.B., Ekim, T. & Taşkın, Z.C. (2023), <i>"Integer Programming Formulations and Cutting Plane Algorithms for the Maximum Selective Tree Problem,"</i> In Proceedings of 21st International Symposium on Experimental Algorithms (SEA 2023). <a href="https://doi.org/10.4230/LIPIcs.SEA.2023.13">[DOI]</a> <a href="/files/maximum_selective_tree.pdf">[PDF]</a>
+
+1. Dursun, P., Taşkın, Z.C. & Altinel, I.K. (2016), <i>"Mathematical Models for Optimal Volumetric Modulated Arc Therapy (VMAT) Treatment Planning,"</i> In   Procedia Computer Science. Volume 100, pp. 644 - 651. <a href="https://doi.org/10.1016/j.procs.2016.09.206">[DOI]</a> <a href="/files/HCist2016_proceeding.pdf">[PDF]</a>
+
+1. Sarıduman, A., Pusane, A.E. & Taşkın, Z.C. (2016), <i>"A heuristic method for adaptive linear programming decoding,"</i> In Proceedings of Signal Processing and Communications Applications (SIU 2016). <a href="/files/SIU2016_proceeding.pdf">[PDF]</a>
+
+1. Altinel, I.K., Turkogullari, Y.B., Taşkın, Z.C. & Aras, N. (2015), <i>"Optimal Berth Allocation, Time-variant Quay Crane Assignment and Scheduling with Crane Setups in Container Terminals,"</i> In   Proceedings of The 2015 International Conference on Logistics and Maritime Systems (LOGMS 2015). <a href="/files/LOGMS2015_proceeding.pdf">[PDF]</a>
+
+1. Sarıduman, A., Pusane, A.E. & Taşkın, Z.C. (2014), <i>"Adaptive Linear Programming for Decoding LDPC Codes,"</i> In Proceedings of Signal Processing and Communications Applications (SIU 2014).  <a href="/files/SIU2014_proceeding.pdf">[PDF]</a>
+
+1. Aras, N., Turkogullari, Y., Taşkın, Z.C. & Altinel, K. (2012), <i>"Simultaneous Optimization of Berth Allocation, Quay Crane Assignment and Quay Crane Scheduling Problems in Container Terminals,"</i> In Proceedings of International Annual Conference of the German Operations Research Society (OR 2012).  <a href="/files/OR2012_proceeding.pdf">[PDF]</a>
+
+1. Teksan, Z.M., Unal, A.T. & Taşkın, Z.C. (2012), <i>"A Mixed Integer Programming Based Solution Methodology for a Scheduling Problem in Tissue Paper Manufacturing,"</i> In Proceedings of 13th International Conference on Project Management and Scheduling (PMS 2012). Springer. <a href="/files/PMS2012_proceeding.pdf">[PDF]</a>
+
+1. Sarıduman, A., Pusane, A.E. & Taşkın, Z.C. (2012), <i>"An integer programming based trapping set search technique,"</i> In Proceedings of Signal Processing and Communications Applications (SIU 2012). <a href="/files/SIU2012_proceeding.pdf">[PDF]</a>
