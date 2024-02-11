@@ -21,7 +21,6 @@ author_profile: true
 
 ## Journal Publications
 
-
 1. van den Heuvel, W., Ağralı, S. & Taşkın, Z.C. (2023), <i>"A Decomposition Algorithm for Single and Multi-Objective Integrated Market Selection and Production Planning,"</i> INFORMS Journal on Computing.  Vol. 35(6), pp. 1439-1453. [[DOI]](https://doi.org/10.1287/ijoc.2022.0053) [[PDF]](/files/market_selection.pdf)
 
 1. Banak, A.E., Ekim, T. & Taşkın, Z.C. (2023), <i>"Constructing extremal triangle-free graphs using integer programming,"</i> Discrete Optimization.  Vol. 50, pp. 100802. <a href="https://doi.org/10.1016/j.disopt.2023.100802">[DOI]</a> <a href="/files/triangle_free.pdf">[PDF]</a>
@@ -98,3 +97,13 @@ author_profile: true
 1. Taşkın, Z.C. & Unal, A.T. (2009), <i>"Tactical Level Planning in Float Glass Manufacturing with Co-Production, Random Yields and Substitutable Products,"</i> European Journal of Operational Research.  Vol. 199(1), pp. 252-261. <a href="https://doi.org/10.1016/j.ejor.2008.11.024">[DOI]</a> <a href="/files/float_tactical.pdf">[PDF]</a>
 
 1. Men, C., Romeijn, H.E., Taşkın, Z.C. & Dempsey, J.F. (2007), <i>"An Exact Approach to Direct Aperture Optimization in IMRT Treatment Planning,"</i> Physics in Medicine and Biology.  Vol. 52(24), pp. 7333-7352. <a href="https://doi.org/10.1088/0031-9155/52/24/009">[DOI]</a> <a href="/files/direct_aperture_optimization.pdf">[PDF]</a>
+
+## Book Chapters
+
+1. Seker, O., Heggernes, P., Ekim, T. & Taşkın, Z.C. (2017), <i>"Linear-time generation of random chordal graphs,"</i> In   Lecture Notes in Computer Science. Springer. <a href="http://doi.org/10.1007/978-3-319-57586-5_37">[DOI]</a> <a href="/files/chordalgen-CIAC.pdf">[PDF]</a>
+
+1. Teksan, Z.M., Unal, A.T. & Taşkın, Z.C. (2012), <i>"Integrated Production Planning, Shift Planning, and Detailed Scheduling in a Tissue Paper Manufacturer,"</i> In   Models, Algorithms, and Technologies for Network Analysis. Springer. <a href="http://doi.org/10.1007/978-1-4614-5574-5_9">[DOI]</a> <a href="/files/tissue_chapter.pdf">[PDF]</a>
+
+1. Taşkın, Z.C. (2010), <i>"Benders Decomposition,"</i> In J. J. Cochran (Editor),  Encyclopedia of Operations Research and Management Science. Wiley. <a href="http://doi.org/10.1002/9780470400531.eorms0104">[DOI]</a> <a href="/files/taskin_benders.pdf">[PDF]</a>
+
+1. Smith, J.C. & Taşkın, Z.C. (2008), <i>"A Tutorial Guide to Mixed-Integer Programming Models and Solution Techniques,"</i> In G. J. Lim and E. K. Lee (Editor),  Optimization in Medicine and Biology. January 2008. Taylor and Francis, Auerbach Publications. <a href="/files/IP_tutorial.pdf">[PDF]</a>
