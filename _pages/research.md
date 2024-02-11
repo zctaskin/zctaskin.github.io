@@ -14,6 +14,7 @@ author_profile: true
   - Parallel Computing
 - Application Areas
   - Large-scale Production Planning and Scheduling
+  - Optimization in Graphs and Networks
   - Decision Making Under Uncertainty
   - Medical Applications of Operations Research
   - Telecommunications Network Optimization
