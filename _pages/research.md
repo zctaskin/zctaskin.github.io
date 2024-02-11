@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-##Research Interests
+## Research Interests
 - Methodologies
   - Integer Programming
   - Hybrid Decomposition Algorithms
@@ -19,7 +19,7 @@ author_profile: true
   - Medical Applications of Operations Research
   - Telecommunications Network Optimization
 
-##Journal Publications
+## Journal Publications
 
 
 1. van den Heuvel, W., Ağralı, S. & Taşkın, Z.C. (2023), <i>"A Decomposition Algorithm for Single and Multi-Objective Integrated Market Selection and Production Planning,"</i> INFORMS Journal on Computing.  Vol. 35(6), pp. 1439-1453. [[DOI]](https://doi.org/10.1287/ijoc.2022.0053) [[PDF]](/files/market_selection.pdf)
