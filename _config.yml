@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Z. Caner Taşkın"
   avatar           : "profile.png"
-  bio              : "Professor of Operations Research"
+  bio              : "Principal Research Scientist"
   location         : # "İstanbul, Turkey"
-  employer         : "Boğaziçi University"
+  employer         : "Amazon SCOT"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=icC4bcYAAAAJ"
   email            : "caner.taskin at bogazici.edu.tr"
