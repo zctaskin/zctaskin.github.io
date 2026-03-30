@@ -13,5 +13,5 @@ Principal Research Scientist <br>
 
 Prior to Amazon, I served as Professor of Operations Research at 
 [Boğaziçi University Department of Industrial Engineering](https://ie.bogazici.edu.tr) <br>
-and [Chief Technology Officer of ICRON](https://icrontech.com)
+and Chief Technology Officer at [ICRON](https://icrontech.com)
 
