@@ -12,6 +12,7 @@ author_profile: true
   - Integer Programming
   - Hybrid Decomposition Algorithms
   - Parallel Computing
+  - Stochastic Optimization
 - Application Areas
   - Large-scale Production Planning and Scheduling
   - Optimization in Graphs and Networks
